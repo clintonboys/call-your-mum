@@ -1,0 +1,17 @@
+{"people":
+	{
+		"name": "Tina Squire",
+		"relationship": "Mum",
+		"frequency": 15,
+		"birthday": "1959-08-16",
+		"timezone": "GMT + 10",
+		"service": "Whatsapp"
+		},
+	{
+		"name": "Michael Boys",
+		"relationship": "Dad",
+		"frequency": 15,
+		"birthday": "1953-08-12",
+		"timezone": "GMT + 10",
+		}
+}
