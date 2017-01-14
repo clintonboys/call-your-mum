@@ -1,0 +1,1 @@
+email_copy = ['You\'re a long way from home. Get in touch with {0} using {1}.']
