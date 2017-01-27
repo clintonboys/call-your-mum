@@ -20,14 +20,14 @@ def send_message(timestamp, person, birthday = False):
 	    {
 	      "to": [
 	        {
-	          "email": "cdsboys@gmail.com"
+	          "email": email_address
 	        }
 	      ],
 	      "subject": "Get in touch with {0}".format(person._name) + birthday_message
 	    }
 	  ],
 	  "from": {
-	    "email": "cdsboys@gmail.com",
+	    "email": email_address
 	  },
 	  "content": [
 	    {

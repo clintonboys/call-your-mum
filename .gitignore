@@ -1,2 +1,3 @@
 *.pyc
 people.json
+config.py
